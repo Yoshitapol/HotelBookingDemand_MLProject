@@ -8,6 +8,7 @@ The objective of this project is to analyze hotel booking data and build machine
 
 This project demonstrates a complete machine learning workflow using the Hotel Booking Demand dataset from Kaggle.
 
+---
 
 ## 📂 Dataset
 
@@ -32,6 +33,7 @@ The dataset contains booking information for city and resort hotels, including:
 - Booking Status
 - and many other booking-related features.
 
+---
 
 ## 🎯 Project Objectives
 
@@ -44,6 +46,8 @@ The dataset contains booking information for city and resort hotels, including:
 - Train multiple Machine Learning models
 - Compare model performance
 - Predict hotel booking cancellations
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -70,6 +74,7 @@ The project includes visualizations such as:
 - Correlation Heatmap
 - Boxplots for Outlier Detection
 
+---
 
 ## ⚙️ Data Preprocessing
 
@@ -82,6 +87,8 @@ The following preprocessing steps were performed:
 - Train-Test Split
 - Feature Scaling using StandardScaler
 - Outlier treatment using the IQR method
+
+---
 
 ## 🤖 Machine Learning Models
 
@@ -106,6 +113,7 @@ The models were evaluated using:
 
 The best-performing model was selected based on these evaluation metrics.
 
+---
 
 ## 💡 Key Insights
 
@@ -144,6 +152,7 @@ jupyter notebook
 
 5. Run all notebook cells sequentially.
 
+---
 
 ## 📌 Results
 
@@ -155,7 +164,8 @@ The developed model can help hotels:
 - Improve occupancy planning
 - Optimize revenue management
 - Support data-driven business decisions
-  
+
+---
 
 ## 👩‍💻 Author
 
@@ -163,9 +173,3 @@ The developed model can help hotels:
 
 - LinkedIn: https://www.linkedin.com/in/yoshita-pol-b98733302
 - GitHub: https://github.com/Yoshitapol
-
----
-
-## 📄 License
-
-This project is intended for educational and learning purposes.
